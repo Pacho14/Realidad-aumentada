@@ -1,0 +1,7 @@
+# Ingora archivos de Blender y temporales
+*.blend
+*.blend1
+*.log
+__pycache__/
+.DS_Store
+Thumbs.db
